@@ -1,0 +1,1 @@
+{"1": {"FullReport": "[Message] : TEST\n [LineNumber] : 64\n [FileName] : DataAccess.py\n [FunctionName] : DataAccess.py\n [SyntaxCode]raise Exception(\"TEST\")"}}
