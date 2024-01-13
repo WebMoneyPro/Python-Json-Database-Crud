@@ -1,7 +1,7 @@
 from .M_Base import M_Base
 class User(M_Base):
     """
-     مدل یوزر در سیستم
+     مدل کاربر در سیستم
     """
     def __init__(self,
                 userName:str,
